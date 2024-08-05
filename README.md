@@ -1,2 +1,2 @@
 # RO47002
-fukditvak
+Repository for Final Porject of Robot Software Practicals
