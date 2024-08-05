@@ -1,2 +1,2 @@
 # RO47002
-Repository for Final Project of Robot Software Practicals
+Repository for Projects of Machine Learning for Robotics
